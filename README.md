@@ -1,2 +1,5 @@
 # learn-shell
-small scripting topics
+shell scripting topics
+
+manideep
+damera
