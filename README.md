@@ -1,6 +1,7 @@
 # learn-shell
 shell scripting topics
 
-manideep
 
-damera
+1.projects
+2.documentatations
+3.research
